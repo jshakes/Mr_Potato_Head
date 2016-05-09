@@ -50,6 +50,11 @@ h1 {
 /* Insert CSS for arms below this line*/
 
 /* Insert CSS for moustache below this line*/
+#moustache_image{
+    position: absolute;
+    top: 157px;
+    right: 86px;
+}
 
 /* Insert CSS for shoes below this line*/
 
